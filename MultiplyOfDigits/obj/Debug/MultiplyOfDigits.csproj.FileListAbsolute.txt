@@ -1,0 +1,7 @@
+D:\.NET Projects\.NET-C-Sharap\MultiplyOfDigits\bin\Debug\MultiplyOfDigits.exe.config
+D:\.NET Projects\.NET-C-Sharap\MultiplyOfDigits\bin\Debug\MultiplyOfDigits.exe
+D:\.NET Projects\.NET-C-Sharap\MultiplyOfDigits\bin\Debug\MultiplyOfDigits.pdb
+D:\.NET Projects\.NET-C-Sharap\MultiplyOfDigits\obj\Debug\MultiplyOfDigits.csprojAssemblyReference.cache
+D:\.NET Projects\.NET-C-Sharap\MultiplyOfDigits\obj\Debug\MultiplyOfDigits.csproj.CoreCompileInputs.cache
+D:\.NET Projects\.NET-C-Sharap\MultiplyOfDigits\obj\Debug\MultiplyOfDigits.exe
+D:\.NET Projects\.NET-C-Sharap\MultiplyOfDigits\obj\Debug\MultiplyOfDigits.pdb
