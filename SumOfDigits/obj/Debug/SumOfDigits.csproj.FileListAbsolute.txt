@@ -1,0 +1,6 @@
+D:\.NET Projects\Dot Net\SumOfDigits\bin\Debug\SumOfDigits.exe.config
+D:\.NET Projects\Dot Net\SumOfDigits\bin\Debug\SumOfDigits.exe
+D:\.NET Projects\Dot Net\SumOfDigits\bin\Debug\SumOfDigits.pdb
+D:\.NET Projects\Dot Net\SumOfDigits\obj\Debug\SumOfDigits.csproj.CoreCompileInputs.cache
+D:\.NET Projects\Dot Net\SumOfDigits\obj\Debug\SumOfDigits.exe
+D:\.NET Projects\Dot Net\SumOfDigits\obj\Debug\SumOfDigits.pdb
