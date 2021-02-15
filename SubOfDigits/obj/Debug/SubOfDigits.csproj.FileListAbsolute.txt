@@ -1,0 +1,7 @@
+D:\.NET Projects\Dot Net\SubOfDigits\bin\Debug\SubOfDigits.exe.config
+D:\.NET Projects\Dot Net\SubOfDigits\bin\Debug\SubOfDigits.exe
+D:\.NET Projects\Dot Net\SubOfDigits\bin\Debug\SubOfDigits.pdb
+D:\.NET Projects\Dot Net\SubOfDigits\obj\Debug\SubOfDigits.csprojAssemblyReference.cache
+D:\.NET Projects\Dot Net\SubOfDigits\obj\Debug\SubOfDigits.csproj.CoreCompileInputs.cache
+D:\.NET Projects\Dot Net\SubOfDigits\obj\Debug\SubOfDigits.exe
+D:\.NET Projects\Dot Net\SubOfDigits\obj\Debug\SubOfDigits.pdb
