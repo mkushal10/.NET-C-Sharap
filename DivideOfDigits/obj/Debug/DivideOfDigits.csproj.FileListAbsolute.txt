@@ -1,0 +1,7 @@
+D:\.NET Projects\.NET-C-Sharap\DivideOfDigits\bin\Debug\DivideOfDigits.exe.config
+D:\.NET Projects\.NET-C-Sharap\DivideOfDigits\bin\Debug\DivideOfDigits.exe
+D:\.NET Projects\.NET-C-Sharap\DivideOfDigits\bin\Debug\DivideOfDigits.pdb
+D:\.NET Projects\.NET-C-Sharap\DivideOfDigits\obj\Debug\DivideOfDigits.csprojAssemblyReference.cache
+D:\.NET Projects\.NET-C-Sharap\DivideOfDigits\obj\Debug\DivideOfDigits.csproj.CoreCompileInputs.cache
+D:\.NET Projects\.NET-C-Sharap\DivideOfDigits\obj\Debug\DivideOfDigits.exe
+D:\.NET Projects\.NET-C-Sharap\DivideOfDigits\obj\Debug\DivideOfDigits.pdb
